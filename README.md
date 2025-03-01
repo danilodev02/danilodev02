@@ -4,7 +4,7 @@
 
 ###
 
-<div>
+<div align="right">
   <img  height="150" src="https://danilo-dev2319.netlify.app/assets/logo-DttGX-aY.png"  />
   <img src="https://github-readme-stats.vercel.app/api?username=danilomarques&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   
