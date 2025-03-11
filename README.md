@@ -1,4 +1,4 @@
-w<h2 align="left">Olá meu nome é Danilo dos Santos Marques Junior, e esse é meu perfil!</h2>
+<h2 align="left">Olá meu nome é Danilo dos Santos Marques Junior, e esse é meu perfil!</h2>
 
 ###
 
@@ -35,7 +35,7 @@ w<h2 align="left">Olá meu nome é Danilo dos Santos Marques Junior, e esse é m
 ###
 
 <div align="left">
-  <a href=''><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href='https://discord.gg/cE7TCqCXTE'><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="https://www.instagram.com/danilo_dev2319/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="https://www.youtube.com/@danilo_dev2319"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   <a href="https://www.linkedin.com/in/danilodev2319/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
