@@ -1,46 +1,46 @@
-<h2 align="left">Olá meu nome é Danilo dos Santos Marques Junior, e esse é meu perfil!</h2>
+## 👋 Olá, eu sou Danilo
 
-###
+Sou desenvolvedor focado em **Frontend**, com experiência prática em construção de layouts,
+interfaces responsivas e lógica em JavaScript. Também desenvolvo projetos de **jogos 2D**
+com foco em sistemas e UI.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danilodev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&langs=HTML,JavaScript,React,CSS" height="150" alt="languages graph"  />
+---
 
-</div>
+## 🧠 Core Skills
+- HTML5 (semântico)
+- CSS3 (Flexbox, Grid, responsividade)
+- JavaScript (ES6+)
+- Git / GitHub
 
-###
+---
 
-<img align="right" height="150" src="https://danilo-dev2319.netlify.app/assets/logo-DttGX-aY.png"  />
+## ⚙️ Tecnologias
+### Frontend
+- React
+- Componentização
+- Consumo de APIs
 
-###
+### Backend / Dados
+- Node.js
+- MySQL
+- PHP (experiência anterior)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
+---
 
-###
+## 🎮 Game Dev / Criativo
+- Desenvolvimento de jogos 2D
+- Pixel Art
+- UI/HUD para jogos
+- Design de sistemas simples
 
-<div align="left">
-  <a href='https://discord.gg/cE7TCqCXTE'><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="https://www.instagram.com/danilo_dev2319/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://www.youtube.com/@danilo_dev2319"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="https://www.linkedin.com/in/danilodev2319/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href=""><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-</div>
+---
 
-###
+## 🛠️ Ferramentas
+- Figma
+- VS Code
+- Linux
+
+---
+
+## 📌 Nota
+Este perfil reflete apenas tecnologias que utilizo ou utilizei de forma prática em projetos reais.
