@@ -1,2 +1,2 @@
-![Header](images/github-header-banner.png)
+![Header](images/banner_violet_avatar.svg)
 
