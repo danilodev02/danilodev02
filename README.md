@@ -18,9 +18,6 @@
 ![Django](https://img.shields.io/badge/Django-1c1626?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1626?style=flat-square&logo=postgresql&logoColor=white)
 
-<!-- anuraghazra -->
-![GitHub stats](https://githubreadmestatsfast.vercel.app/api?username=niludev02&show_icons=true&theme=dark&hide_border=true)
-
 ### 🔭 Currently
 - Working on: Sistema Formiguinhas (gestão para ONG)
 - Learning: shadcn/ui
