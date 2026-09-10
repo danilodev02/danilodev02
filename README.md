@@ -23,4 +23,4 @@
 - Learning: shadcn/ui
 
 ---
-📫 Como me encontrar: [LinkedIn](...) · [Email](...) · [Portfólio](...)
+📫 Como me encontrar: [LinkedIn](...) · [Email](dsmjunior02@gmail.com) · [Portfólio](...)
